@@ -17,7 +17,7 @@ transform = Transform( 1, 0, 0, 0, -4.37114e-008, -1, 0, 1, -4.37114e-008, 0, 0,
 shape = SubResource( 1 )
 
 [node name="Feet" type="CollisionShape" parent="."]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.142166, -0.720184, -0.00559494 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.142166, -0.70396, -0.0380427 )
 shape = SubResource( 2 )
 
 [node name="Pivot" type="Spatial" parent="."]
